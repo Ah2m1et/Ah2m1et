@@ -1,19 +1,19 @@
-# Merhaba, Ben Ahmet Korkmaz! 👋
+# Hello, I'm King Ahmet Korkmaz the terrible! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
 ![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/9f2b5ea2-5186-4eda-868f-7eca1cf24956)
 
-## Hakkımda
+## About Me
 
-Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknoloji dünyasında yeni projeler geliştirmekten büyük keyif alıyorum.
+I'm Ahmet Korkmaz, a Computer Engineering student at Bursa Technical University. I enjoy developing new projects in the world of technology.
 
-- 🌱 Şu anda öğreniyorum: Makine Öğrenmesi ve Veri Bilimi
-- 🔭 Şu anda çalışıyorum: Kişisel projeler ve okul projeleri
-- 💬 Bana sor: C, C++, Python, Java, JavaScript, HTML, CSS
-- 📫 Bana ulaş: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com)
+- 🌱 Currently learning: Machine Learning and Data Science
+- 🔭 Currently working on: Personal projects and school projects
+- 💬 Ask me about: C, C++, Python, Java, JavaScript, HTML, CSS
+- 📫 How to reach me: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com)
 
-## Becerilerim
+## Skills
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
@@ -28,16 +28,16 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 ![Jetson](https://img.shields.io/badge/-Jetson-000?&logo=NVIDIA)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-## Bağlantılar
+## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-korkmaz-59772721b)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://x.com/ahmetkorkmaz099)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmet_korkmaz.1)
 
-## Eğlenceli Şeyler
+## Fun Facts
 
-- 🎮 Hobilerim arasında bilgisayar oyunu oynamak ve bol bol kod yazmak bulunuyor.
-- ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum. Özellikle kamp yapmak...
-- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. Sanırım dürümler karışık.
+- 🎮 I enjoy playing computer games and coding.
+- ✈️ I love traveling and exploring new places. Especially camping...
+- 🌯 I'm a huge fan of dürüm kebab. Şeyy Ciğer Dürüm is the best of all. Sanırım dürümler karışık.
 
   ![Ahmet Korkmaz](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark)
