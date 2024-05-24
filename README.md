@@ -1,17 +1,11 @@
 # Hello, I'm King Ahmet Korkmaz the terrible! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
-
-![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/9f2b5ea2-5186-4eda-868f-7eca1cf24956)
-
 ## About Me
 
-I'm Ahmet Korkmaz, a Computer Engineering student at Bursa Technical University. I enjoy developing new projects in the world of technology.
+| About Me | Profile Stats |
+|----------|---------------|
+| I'm Ahmet Korkmaz, a Computer Engineering student at Bursa Technical University. I enjoy developing new projects in the world of technology.<br><br> - 🌱 Currently learning: Machine Learning and Data Science<br> - 🔭 Currently working on: Personal projects and school projects<br> - 💬 Ask me about: C, C++, Python, Java, JavaScript, HTML, CSS<br> - 📫 How to reach me: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com) | ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)<br><br>![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/9f2b5ea2-5186-4eda-868f-7eca1cf24956) |
 
-- 🌱 Currently learning: Machine Learning and Data Science
-- 🔭 Currently working on: Personal projects and school projects
-- 💬 Ask me about: C, C++, Python, Java, JavaScript, HTML, CSS
-- 📫 How to reach me: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com)
 
 ## Skills
 
