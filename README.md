@@ -1,8 +1,10 @@
 # Hello, I'm King Ahmet Korkmaz the terrible! 👋
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
-![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/9f2b5ea2-5186-4eda-868f-7eca1cf24956)
+<div style="float:right"><img src="https://media.giphy.com/media/l0HlUu8FwX7UlFtdO/giphy.gif"></div>
+
 
 ## About Me
 
