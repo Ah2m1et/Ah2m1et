@@ -18,6 +18,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000?&logo=Raspberry%20Pi)
 ![Jetson](https://img.shields.io/badge/-Jetson-000?&logo=NVIDIA)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![ROS](https://img.shields.io/badge/-ROS-000?&logo=ROS)
+![YOLO](https://img.shields.io/badge/-YOLO-000?&logo=YOLO)
+![Autonomous Driving](https://img.shields.io/badge/-Autonomous_Driving-000)
+![Mobile Robotics](https://img.shields.io/badge/-Mobile_Robotics-000)
 
 ## Links
 
