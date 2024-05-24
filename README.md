@@ -13,15 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-000?&logo=GNU%20Bash)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000?&logo=Raspberry%20Pi)
 ![Jetson](https://img.shields.io/badge/-Jetson-000?&logo=NVIDIA)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ROS](https://img.shields.io/badge/-ROS-000?&logo=ROS)
-![YOLO](https://img.shields.io/badge/-YOLO-000?&logo=YOLO)
-![Autonomous Driving](https://img.shields.io/badge/-Autonomous_Driving-000)
-![Mobile Robotics](https://img.shields.io/badge/-Mobile_Robotics-000)
 
 ## Links
 
