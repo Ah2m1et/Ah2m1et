@@ -22,6 +22,11 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-000?&logo=Raspberry%20Pi)
+![Jetson](https://img.shields.io/badge/-Jetson-000?&logo=NVIDIA)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ## Bağlantılar
 
