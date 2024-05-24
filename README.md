@@ -2,8 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
-<img src="[https://media.giphy.com/media/l0HlUu8FwX7UlFtdO/giphy.gif](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/5c3a8e2d-4981-4375-bf44-04b525692a3f)" width="400" height="300">
-
+![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/9f2b5ea2-5186-4eda-868f-7eca1cf24956)
 
 ## Hakkımda
 
@@ -34,4 +33,6 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 
 - 🎮 Hobilerim arasında bilgisayar oyunu oynamak ve bol bol kod yazmak bulunuyor.
 - ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum. Özellikle kamp yapmak...
-- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. Sanırım dürümler karışık. 
+- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. Sanırım dürümler karışık.
+
+  
