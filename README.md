@@ -1,4 +1,4 @@
-# Merhaba, Ben [İsminiz]! 👋
+# Merhaba, Ben Org. Ahmet KORKMAZ! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)
 
