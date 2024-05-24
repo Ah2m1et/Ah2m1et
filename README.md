@@ -1,8 +1,9 @@
-# Merhaba, Ben Ahmet Korkmaz! 👋
+![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/015096c0-6d61-4321-97cd-93220ecbe155)# Merhaba, Ben Ahmet Korkmaz! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
-![Fun GIF](https://media.giphy.com/media/l0HlUu8FwX7UlFtdO/giphy.gif)
+![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/5c3a8e2d-4981-4375-bf44-04b525692a3f)
+
 
 ## Hakkımda
 
@@ -11,7 +12,7 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 - 🌱 Şu anda öğreniyorum: Makine Öğrenmesi ve Veri Bilimi
 - 🔭 Şu anda çalışıyorum: Kişisel projeler ve okul projeleri
 - 💬 Bana sor: C, C++, Python, Java, JavaScript, HTML, CSS
-- 📫 Bana ulaş: [ahmet.korkmaz@example.com](mailto:ahmet.korkmaz@example.com)
+- 📫 Bana ulaş: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com)
 
 ## Becerilerim
 
