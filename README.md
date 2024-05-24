@@ -36,9 +36,15 @@ I'm Ahmet Korkmaz, a Computer Engineering student at Bursa Technical University.
 
 ## Fun Facts
 
-- 🎮 I enjoy playing computer games and coding.
-- ✈️ I love traveling and exploring new places. Especially camping...
-- 🌯 I'm a huge fan of dürüm kebab. Şeyy Ciğer Dürüm is the best of all. Sanırım dürümler karışık.
-
-  <div style="float:right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark"></div>
-
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🎮 I enjoy playing computer games and coding.</li>
+      <li>✈️ I love traveling and exploring new places. Especially camping...</li>
+      <li>🌯 I'm a huge fan of dürüm kebab. Şeyy Ciğer Dürüm is the best of all. I guess mixed dürüms rule.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark" alt="Ahmet Korkmaz" />
+  </div>
+</div>
