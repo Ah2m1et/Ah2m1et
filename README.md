@@ -26,16 +26,15 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 
 ## Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetkorkmaz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/ahmetkorkmaz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmetkorkmaz)
-[![Website](https://img.shields.io/badge/Website-000000?&logo=website&logoColor=white)](https://ahmetkorkmaz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-korkmaz-59772721b)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://x.com/ahmetkorkmaz099)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmet_korkmaz.1)
 
 ## Eğlenceli Şeyler
 
 - 🎮 Hobilerim arasında bilgisayar oyunu oynamak ve bol bol kod yazmak bulunuyor.
 - ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum. Özellikle kamp yapmak...
-- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. O yüzden dürümler karışık. 
+- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. Sanırım dürümler karışık. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkorkmaz&show_icons=true&theme=radical)
 
