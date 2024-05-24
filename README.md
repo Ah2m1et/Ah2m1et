@@ -1,4 +1,4 @@
-![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/015096c0-6d61-4321-97cd-93220ecbe155)# Merhaba, Ben Ahmet Korkmaz! 👋
+# Merhaba, Ben Ahmet Korkmaz! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
@@ -33,9 +33,9 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 
 ## Eğlenceli Şeyler
 
-- 🎨 Hobilerim arasında resim yapmak ve gitar çalmak bulunuyor.
-- ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum.
-- 🍕 Pizzaya bayılırım ve favori pizzam bol malzemeli pizza.
+- 🎮 Hobilerim arasında bilgisayar oyunu oynamak ve bol bol kod yazmak bulunuyor.
+- ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum. Özellikle kamp yapmak...
+- 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. O yüzden dürümler karışık. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkorkmaz&show_icons=true&theme=radical)
 
@@ -45,4 +45,4 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 
 ## İletişim
 
-📫 Bana ulaşmak için: [ahmet.korkmaz@example.com](mailto:ahmet.korkmaz@example.com)
+📫 Bana ulaşmak için: [ah2m1et@gmail.com](mailto:ah2m1et@gmail.com)
