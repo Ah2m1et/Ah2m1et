@@ -32,4 +32,4 @@
 
 | Fun Facts | Stats |
 |-----------|-------|
-| - 🎮 I enjoy playing computer games and coding.<br> - ✈️ I love traveling and exploring new places. Especially camping...<br> - 🌯 I'm a huge fan of dürüm kebab. Şeyy Ciğer Dürüm is the best of all. I guess mixed dürüms rule. | ![Ahmet Korkmaz](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark) |
+| - 🎮 I enjoy playing computer games and coding.<br> - ✈️ I love traveling and exploring new places. Especially camping...<br> - 🌯 I'm a huge fan of dürüm kebab. Şeyy Ciğer Dürüm is the best of all. Sanırım dürümler karışık. | ![Ahmet Korkmaz](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark) |
