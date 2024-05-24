@@ -24,6 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-korkmaz-59772721b)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://x.com/ahmetkorkmaz099)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmet_korkmaz.1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxTDberw4WrKG2xwqVHfWNg)
+
 
 | Fun Facts | Stats |
 |-----------|-------|
