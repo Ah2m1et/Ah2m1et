@@ -27,6 +27,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmet_korkmaz.1)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxTDberw4WrKG2xwqVHfWNg)
 
+![83-ghost-huntig-pacman](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/73693eb2-a324-4b42-ac57-323f3fff4a2e)
+
 
 | Fun Facts | Stats |
 |-----------|-------|
