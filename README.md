@@ -35,4 +35,4 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 - ✈️ Seyahat etmekten ve yeni yerler keşfetmekten keyif alıyorum. Özellikle kamp yapmak...
 - 🌯 Dürüm kebaba bayılırım. Şeyy Ciğer Dürüm hepsinden daha güzel. Sanırım dürümler karışık.
 
-  
+  ![Ahmet Korkmaz](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah2m1et&layout=compact&theme=dark)
