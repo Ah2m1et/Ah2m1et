@@ -24,6 +24,17 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
+## Projelerim
+
+### [Proje 1: Kişisel Blog](https://github.com/ahmetkorkmaz/kisisel-blog)
+Kişisel blog sayfamı oluşturmak için HTML, CSS ve JavaScript kullandım. Bu projede web tasarımı ve kullanıcı deneyimi üzerine çalıştım.
+
+### [Proje 2: Python ile Veri Analizi](https://github.com/ahmetkorkmaz/veri-analizi)
+Bu projede Python ve pandas kullanarak veri analizi yaptım. Verilerin görselleştirilmesi için matplotlib ve seaborn kütüphanelerini kullandım.
+
+### [Proje 3: C++ ile Oyun Geliştirme](https://github.com/ahmetkorkmaz/oyun-gelistirme)
+Basit bir 2D oyun geliştirdim. Bu proje, oyun motorları ve grafik programlama hakkında daha fazla bilgi edinmeme yardımcı oldu.
+
 ## Bağlantılar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-korkmaz-59772721b)
