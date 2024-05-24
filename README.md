@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmetkorkmaz&color=blue)
 
-![bb8_final](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/5c3a8e2d-4981-4375-bf44-04b525692a3f)
+<img src="[https://media.giphy.com/media/l0HlUu8FwX7UlFtdO/giphy.gif](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/5c3a8e2d-4981-4375-bf44-04b525692a3f)" width="400" height="300">
 
 
 ## Hakkımda
@@ -23,17 +23,6 @@ Ben Ahmet Korkmaz, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrenc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-
-## Projelerim
-
-### [Proje 1: Kişisel Blog](https://github.com/ahmetkorkmaz/kisisel-blog)
-Kişisel blog sayfamı oluşturmak için HTML, CSS ve JavaScript kullandım. Bu projede web tasarımı ve kullanıcı deneyimi üzerine çalıştım.
-
-### [Proje 2: Python ile Veri Analizi](https://github.com/ahmetkorkmaz/veri-analizi)
-Bu projede Python ve pandas kullanarak veri analizi yaptım. Verilerin görselleştirilmesi için matplotlib ve seaborn kütüphanelerini kullandım.
-
-### [Proje 3: C++ ile Oyun Geliştirme](https://github.com/ahmetkorkmaz/oyun-gelistirme)
-Basit bir 2D oyun geliştirdim. Bu proje, oyun motorları ve grafik programlama hakkında daha fazla bilgi edinmeme yardımcı oldu.
 
 ## Bağlantılar
 
