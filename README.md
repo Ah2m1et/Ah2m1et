@@ -1,4 +1,4 @@
-# Hello, I'm King Ahmet Korkmaz the terrible! 👋
+# Hello, I'm Ahmet Korkmaz! 👋
 
 | About Me | Profile Stats |
 |----------|---------------|
