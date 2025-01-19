@@ -22,9 +22,7 @@
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-korkmaz-59772721b)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://x.com/ahmetkorkmaz099)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/ahmet_korkmaz.1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkorkmaz21)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxTDberw4WrKG2xwqVHfWNg)
 
 ![83-ghost-huntig-pacman](https://github.com/Ah2m1et/Ah2m1et/assets/103003160/73693eb2-a324-4b42-ac57-323f3fff4a2e)
